@@ -1,0 +1,11 @@
+## Interface: 110002
+## Title: Random Poly
+## Author: zecmo, cloned from RandomHex then modified into RandomPoly
+## Version: 1.0.0
+## Notes: Uses a random polymorph variant for Mages
+## SavedVariables: rpolyOptions
+
+## X-Localizations: enUS, enGB
+## X-CompatibleLocales: enUS, enGB
+
+RandomPoly.lua
