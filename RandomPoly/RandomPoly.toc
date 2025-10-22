@@ -1,8 +1,11 @@
-## Interface: 110002
+## Interface: 110200
 ## Title: Random Poly
+## IconTexture: Interface/Addons/RandomPoly/art/RandomPoly_small_icon
 ## Author: zecmo, cloned from RandomHex then modified into RandomPoly
-## Version: 1.0.0
-## Notes: Uses a random polymorph variant for Mages
+## Version: 1.0.1
+## Notes: Uses a random polymorph variant for Mages.
+## Notes: |cff58C6FAUses a random polymorph variant for Mages.|r|n|cffbbbbbbBy zecmo|r|n|n|cffFFC700Slash command: /poly|r
+## Category: Combat
 ## SavedVariables: rpolyOptions
 
 ## X-Localizations: enUS, enGB
